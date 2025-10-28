@@ -1,7 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Y8bW3OQP)
-# Exam #1: "Ticketing system"
-## Student: s324165 ERMINI ALESSANDRO 
-
 ## React Client Application Routes
 
 - Route `/`: main page, shows the list of all tickes
